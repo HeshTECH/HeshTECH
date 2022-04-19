@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeshTECH
-- 👀 I’m interested in new projects, new trends and exiting industries.
+- 👀 I’m interested in new projects, new trends and exciting industries.
 - 🌱 I’m currently learning Javascript, REACT and Node.
 - 💞️ I’m looking to collaborate on innovative ideas that change the world.
 - 📫 How to reach me mrcoco72@hotmail.com.
